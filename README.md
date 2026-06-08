@@ -10,3 +10,5 @@ this is agood example of code [my-code](https://gist.github.com/ahmadelzohairy/8
 
 ### Colab Link
 colab [notebook](https://colab.research.google.com/drive/186Rgp9NiwZGuYXQNq19d8k_b2jU6zDeZ?usp=sharing)
+### Image
+<img width="468" height="373" alt="image" src="https://github.com/user-attachments/assets/c3fdfb25-821b-4650-9dfe-78530f447a04" />
